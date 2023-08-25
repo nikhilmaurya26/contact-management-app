@@ -33,9 +33,9 @@ Explain how to use your project. Provide code examples or screenshots to guide u
 
 Include screenshots of your project to showcase its features. You can embed images like this:
 
-![Screenshot 1](/screenshots/screenshot(5).png)
-![Screenshot 2](/screenshots/screenshot(6).png)
-![Screenshot 2](/screenshots/screenshot(8).png)
+![Screenshot 1](./screenshots/screenshot(5).png)
+![Screenshot 2](./screenshots/screenshot(6).png)
+![Screenshot 2](./screenshots/screenshot(8).png)
 
 ## Contributing
 
